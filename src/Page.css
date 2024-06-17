@@ -1,0 +1,23 @@
+.page {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.input{
+    padding: 10px;
+    width: 30%;
+}
+
+.list{
+    padding: 5px;
+    cursor: pointer;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+.p-10{
+    padding: 10px;
+}
